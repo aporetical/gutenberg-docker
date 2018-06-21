@@ -2,7 +2,7 @@
 
 ## What?
 
-This repository provides the automated build context for the rusty static site
+This repository provides an automated build context for the rusty static site
 generator [gutenberg](https://github.com/Keats/gutenberg).
 
 
