@@ -1,6 +1,7 @@
 FROM node:8.8-slim 
 
-MAINTAINER Jim Campbell <jwcampbell@gmail.com> 
+# Thanks to: Jim Campbell <jwcampbell@gmail.com> 
+MAINTAINER Keane Yahn-Krafft <thisaintforuruse@gmail.com>
 
 ENV VERSION v0.3.3 
 
